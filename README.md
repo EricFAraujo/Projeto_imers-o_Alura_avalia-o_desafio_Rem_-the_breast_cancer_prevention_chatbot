@@ -1,4 +1,4 @@
-# Projeto_imersao_Alura_avalia-o_desafio_Rem_-the_breast_cancer_prevention_chatbot
+# Projeto_imersao_Alura_avalia-o_desafio_Rem_the_breast_cancer_prevention_chatbot
 
 Chatbot "Rem" de Prevenção do Câncer de Mama
 Descrição do Projeto
